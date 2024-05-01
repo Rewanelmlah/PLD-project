@@ -1,0 +1,20 @@
+D:\Rewan elmalah (Project)\bin\Debug\net8.0-windows\Rewan elmalah (Project).exe
+D:\Rewan elmalah (Project)\bin\Debug\net8.0-windows\Rewan elmalah (Project).deps.json
+D:\Rewan elmalah (Project)\bin\Debug\net8.0-windows\Rewan elmalah (Project).runtimeconfig.json
+D:\Rewan elmalah (Project)\bin\Debug\net8.0-windows\Rewan elmalah (Project).dll
+D:\Rewan elmalah (Project)\bin\Debug\net8.0-windows\Rewan elmalah (Project).pdb
+D:\Rewan elmalah (Project)\bin\Debug\net8.0-windows\CalithaLib.dll
+D:\Rewan elmalah (Project)\bin\Debug\net8.0-windows\GoldParserEngine.dll
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\Rewan elmalah (Project).csproj.AssemblyReference.cache
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\Rewan_elmalah__Project_.Form1.resources
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\Rewan elmalah (Project).csproj.GenerateResource.cache
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\Rewan elmalah (Project).GeneratedMSBuildEditorConfig.editorconfig
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\Rewan elmalah (Project).AssemblyInfoInputs.cache
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\Rewan elmalah (Project).AssemblyInfo.cs
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\Rewan elmalah (Project).csproj.CoreCompileInputs.cache
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\Rewan el.B186FD3B.Up2Date
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\Rewan elmalah (Project).dll
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\refint\Rewan elmalah (Project).dll
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\Rewan elmalah (Project).pdb
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\Rewan elmalah (Project).genruntimeconfig.cache
+D:\Rewan elmalah (Project)\obj\Debug\net8.0-windows\ref\Rewan elmalah (Project).dll
